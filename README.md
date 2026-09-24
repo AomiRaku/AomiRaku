@@ -2,4 +2,6 @@
 
 憨憨傻傻，香香软软。
 
+Blilibili：[UID 18251508](https://space.bilibili.com/18251508)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aomiraku&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=aomiraku&include_all_commits=true&theme=dark)
